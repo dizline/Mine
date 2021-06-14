@@ -1,10 +1,10 @@
 export default {
-  nicknames: ["Sayang", "MyMine", "BeLoved", "Bee"],
+  nicknames: ["MyBestie", "MyBF", "Friends🤍", "MyBestie"],
   greetings: {
-    evening: "Good Evening",
-    afternoon: "Good Afternoon :",
-    day: "Good Day",
-    morning: "Good Morning",
-    night: "Good Night"
+    evening: "Semoga Panjang Umur",
+    afternoon: "Sehat Selalu :",
+    day: "Murah Rejeki ",
+    morning: "Wish you all the best",
+    night: "Semoga semua doa terkabul"
   }
 };
