@@ -5,7 +5,6 @@ export default {
     afternoon: "Istirahat yang cukup okeii",
     day: "Pagii!",
     morning: "jangan lupa sarapan..",
-    night: "good night and sweet dreams
-"
+    night: "good night and sweet dreams"
   }
 };
